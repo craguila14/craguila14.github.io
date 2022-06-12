@@ -4,3 +4,8 @@
 body{
     background-color: blanchedalmond;
 }
+footer{
+    height: 4em;
+    line-height: 4em;
+    text-align: center;
+}
